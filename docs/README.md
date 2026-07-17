@@ -12,6 +12,7 @@ Use this page as the starting point for the learning and project documentation i
 ## Project work
 
 - [Project checklist](project-checklist.md) — reviews problem definition, data preparation, modelling, evaluation, interpretation and reproducibility before a project is shared.
+- [Notebook quality guide](notebook-quality-guide.md) — provides standards for clear, reproducible and course-compatible notebooks.
 - [Exercises and capstone](../exercises/README.md) — provides progressive practice tasks and a portfolio-oriented capstone.
 
 ## Recommended order
@@ -20,6 +21,7 @@ Use this page as the starting point for the learning and project documentation i
 2. Follow the course syllabus alongside the lecture notebooks.
 3. Complete the exercises after each algorithm family.
 4. Run the benchmark to compare methods consistently.
-5. Use the project checklist before publishing a capstone or portfolio project.
+5. Use the notebook quality guide when updating an example.
+6. Use the project checklist before publishing a capstone or portfolio project.
 
 The original lecture notebooks remain unchanged where possible so that existing Udemy students can continue to follow the recorded course.

@@ -22,7 +22,10 @@ def build_dataset():
         random_state=7,
     )
     x = __import__("numpy").vstack([normal, anomalies])
-    y = __import__("numpy").r_[__import__("numpy").zeros(len(normal)), __import__("numpy").ones(len(anomalies))]
+    y = __import__("numpy").r_[
+        __import__("numpy").zeros(len(normal)),
+        __import__("numpy").ones(len(anomalies)),
+    ]
     return train_test_split(x, y, test_size=0.35, stratify=y, random_state=42)
 
 

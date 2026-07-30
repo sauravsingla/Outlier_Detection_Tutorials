@@ -39,7 +39,7 @@ The goal is to help learners move from understanding an algorithm in a notebook 
 | Learn the subject independently | Follow the [student guide](docs/student-guide.md) and [learning roadmap](docs/course-roadmap.md) |
 | Try a working example quickly | Run [`examples/quickstart.py`](examples/quickstart.py) |
 | Compare detectors | Run the [benchmark](#reproducible-benchmark) |
-| Practise and build a portfolio project | Complete the [exercises and capstone](exercises/README.md) |
+| Practise and build a portfolio project | Complete the [exercises and capstone](exercises/README.md), then use the [project checklist](docs/project-checklist.md) |
 | Reuse the implementation | Explore [`src/outlier_detection/`](src/outlier_detection/) |
 | Fix an environment or notebook error | Read the [troubleshooting guide](docs/troubleshooting.md) |
 
@@ -230,7 +230,7 @@ High-stakes use cases require human review, subgroup analysis, privacy safeguard
 
 ## Student practice
 
-The [`exercises`](exercises/README.md) progress from basic statistical detection to multivariate modelling and a complete capstone. For every exercise, learners should document:
+The [`exercises`](exercises/README.md) progress from basic statistical detection to multivariate modelling and a complete capstone. Use the [`project checklist`](docs/project-checklist.md) to review the final work before sharing it. For every exercise, learners should document:
 
 - the business or analytical objective;
 - preprocessing choices;
